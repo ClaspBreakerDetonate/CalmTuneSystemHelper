@@ -5,7 +5,7 @@
   <p>Compact, portable Windows 10/11 helper for careful cleanup, stability and everyday comfort ✨</p>
   
 <p align="center">
-  <img src="https://i.postimg.cc/HxB269vf/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
+  <img src="https://i.postimg.cc/VL1tJC7D/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
 </p>
 
 

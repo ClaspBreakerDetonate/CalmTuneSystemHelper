@@ -4,8 +4,10 @@
   <h1>🧹 CalmTune System Helper</h1>
   <p>Compact, portable Windows 10/11 helper for careful cleanup, stability and everyday comfort ✨</p>
   
-  <img src="https://via.placeholder.com/1000x500?text=CalmTune+System+Helper+Preview" alt="CalmTune System Helper interface preview" width="80%">
-</div>
+<p align="center">
+  <img src="https://i.postimg.cc/HxB269vf/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
+</p>
+
 
 ---
 
